@@ -1,0 +1,101 @@
+C:\Users\uczen\source\repos\tetris\tetris\bin\Debug\net8.0-windows\tetris.exe
+C:\Users\uczen\source\repos\tetris\tetris\bin\Debug\net8.0-windows\tetris.deps.json
+C:\Users\uczen\source\repos\tetris\tetris\bin\Debug\net8.0-windows\tetris.runtimeconfig.json
+C:\Users\uczen\source\repos\tetris\tetris\bin\Debug\net8.0-windows\tetris.dll
+C:\Users\uczen\source\repos\tetris\tetris\bin\Debug\net8.0-windows\tetris.pdb
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.cache
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.lref
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris.g.resources
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfoInputs.cache
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfo.cs
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris.csproj.CoreCompileInputs.cache
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris.dll
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\refint\tetris.dll
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris.pdb
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\tetris.genruntimeconfig.cache
+C:\Users\uczen\source\repos\tetris\tetris\obj\Debug\net8.0-windows\ref\tetris.dll
+F:\tetris\tetris\bin\Debug\net8.0-windows\tetris.exe
+F:\tetris\tetris\bin\Debug\net8.0-windows\tetris.deps.json
+F:\tetris\tetris\bin\Debug\net8.0-windows\tetris.runtimeconfig.json
+F:\tetris\tetris\bin\Debug\net8.0-windows\tetris.dll
+F:\tetris\tetris\bin\Debug\net8.0-windows\tetris.pdb
+F:\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\tetris\tetris\obj\Debug\net8.0-windows\App.g.cs
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.cache
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.lref
+F:\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.baml
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris.g.resources
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris.GeneratedMSBuildEditorConfig.editorconfig
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfoInputs.cache
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfo.cs
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris.csproj.CoreCompileInputs.cache
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris.dll
+F:\tetris\tetris\obj\Debug\net8.0-windows\refint\tetris.dll
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris.pdb
+F:\tetris\tetris\obj\Debug\net8.0-windows\tetris.genruntimeconfig.cache
+F:\tetris\tetris\obj\Debug\net8.0-windows\ref\tetris.dll
+G:\tetris\tetris\bin\Debug\net8.0-windows\tetris.exe
+G:\tetris\tetris\bin\Debug\net8.0-windows\tetris.deps.json
+G:\tetris\tetris\bin\Debug\net8.0-windows\tetris.runtimeconfig.json
+G:\tetris\tetris\bin\Debug\net8.0-windows\tetris.dll
+G:\tetris\tetris\bin\Debug\net8.0-windows\tetris.pdb
+G:\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\tetris\tetris\obj\Debug\net8.0-windows\App.g.cs
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.cache
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.lref
+G:\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.baml
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris.g.resources
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris.GeneratedMSBuildEditorConfig.editorconfig
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfoInputs.cache
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfo.cs
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris.csproj.CoreCompileInputs.cache
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris.dll
+G:\tetris\tetris\obj\Debug\net8.0-windows\refint\tetris.dll
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris.pdb
+G:\tetris\tetris\obj\Debug\net8.0-windows\tetris.genruntimeconfig.cache
+G:\tetris\tetris\obj\Debug\net8.0-windows\ref\tetris.dll
+E:\tetris\tetris\bin\Debug\net8.0-windows\tetris.exe
+E:\tetris\tetris\bin\Debug\net8.0-windows\tetris.deps.json
+E:\tetris\tetris\bin\Debug\net8.0-windows\tetris.runtimeconfig.json
+E:\tetris\tetris\bin\Debug\net8.0-windows\tetris.dll
+E:\tetris\tetris\bin\Debug\net8.0-windows\tetris.pdb
+E:\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\tetris\tetris\obj\Debug\net8.0-windows\App.g.cs
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.cache
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.lref
+E:\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.baml
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris.g.resources
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris.GeneratedMSBuildEditorConfig.editorconfig
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfoInputs.cache
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfo.cs
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris.csproj.CoreCompileInputs.cache
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris.dll
+E:\tetris\tetris\obj\Debug\net8.0-windows\refint\tetris.dll
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris.pdb
+E:\tetris\tetris\obj\Debug\net8.0-windows\tetris.genruntimeconfig.cache
+E:\tetris\tetris\obj\Debug\net8.0-windows\ref\tetris.dll
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\bin\Debug\net8.0-windows\tetris.exe
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\bin\Debug\net8.0-windows\tetris.deps.json
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\bin\Debug\net8.0-windows\tetris.runtimeconfig.json
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\bin\Debug\net8.0-windows\tetris.dll
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\bin\Debug\net8.0-windows\tetris.pdb
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.cache
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris_MarkupCompile.lref
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.g.resources
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfoInputs.cache
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfo.cs
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.csproj.CoreCompileInputs.cache
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.sourcelink.json
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.dll
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\refint\tetris.dll
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.pdb
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\tetris.genruntimeconfig.cache
+C:\Users\Jacdo\OneDrive\Pulpit\Nowy folder\tetris\tetris\obj\Debug\net8.0-windows\ref\tetris.dll
